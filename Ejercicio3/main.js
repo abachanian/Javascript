@@ -18,6 +18,5 @@ function promedioNotas(array) {
     return suma / iteraciones;
 }
 
-
 //Muestro por consola los resultados
 console.log(promedioNotas(notas));
