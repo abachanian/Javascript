@@ -80,3 +80,6 @@ auto.encender();
 console.log(auto.estado());
 auto.apagar();
 console.log(auto.estado());
+
+
+///ejercicio de práctica
